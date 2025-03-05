@@ -1,6 +1,6 @@
 // umozliwiaja wykonanie podstawowych operacji matematycznych
 
-public class OperatoryMatematyczneRef {
+public class OperatoryMatematyczne {
     
     public static void main(String[] args) {
         int firstNumber = 4;

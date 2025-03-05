@@ -1,4 +1,4 @@
-public class InkrementacjaDekrementacjaRef {
+public class InkrementacjaDekrementacja {
 
     public static void main(String[] args) {
         // inkrementacja zwiekszenie wartosci o jeden
