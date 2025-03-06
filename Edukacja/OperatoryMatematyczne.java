@@ -13,11 +13,11 @@ public class OperatoryMatematyczne {
         float division = thirdNumber / secondNumber; // 0,66
         int modulo = firstNumber%secondNumber; // ile 4 miesci sie w 6 1, 2
 
-        // System.out.println("Dodawanie " + addition);
-        // System.out.println("Odejmowanie " + substraction);
-        // System.out.println("Mnożenie " + multiplication);
-        // System.out.println("Dzielenie " + division);
-        // System.out.println("Modulo " + modulo);
+        System.out.println("Dodawanie " + addition);
+        System.out.println("Odejmowanie " + substraction);
+        System.out.println("Mnożenie " + multiplication);
+        System.out.println("Dzielenie " + division);
+        System.out.println("Modulo " + modulo);
 
         firstNumber+=secondNumber; // firstNumber = firstNumber +secondNumber
         System.out.println("Po dodaniu: " + firstNumber); // 10
