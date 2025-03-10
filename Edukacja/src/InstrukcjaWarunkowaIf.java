@@ -6,8 +6,10 @@ public class InstrukcjaWarunkowaIf {
         
         if(dzielnik!=0) {
             System.out.println("Wynik dzielenia to : " + (dzielna/dzielnik));
+        } else {
+            System.out.println("Proszę podaj inną liczbę");
         }
-        System.out.println("Proszę podaj inną liczbę");
+        
     }
 
 }
