@@ -1,3 +1,10 @@
+// Inkrementacja (ang. increment) i dekrementacja (ang. decrement) to operacje powodujące odpowiednio zwiększenie lub zmniejszenie wartości podanego argumentu o jeden. Te dwa operatory wykorzystywane są bardzo często do skrócenia zapisu np. w pętlach.
+// Oba operatory aktualizują wartość zmiennej do jej nowej wartości.
+
+// Inkrementacji i dekrementacji nie można stosować w przypadku:
+// stałych – nie jest możliwe modyfikowanie ich wartości,
+// wyrażeń – nie można ich aktualizować. */
+
 public class InkrementacjaDekrementacja {
 
     public static void main(String[] args) {

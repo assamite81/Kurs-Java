@@ -1,3 +1,5 @@
+// Typy proste (prymitywne) w Java to podstawowe typy danych, które przechowują wartości bezpośrednio w pamięci. W przeciwieństwie do typów obiektowych, nie są instancjami klas, dzięki czemu zajmują mniej pamięci i są bardziej wydajne.
+
 public class TypyProste {
     // liczby stałoprzecinkowe
         byte firstNumber = 127;         // 1 bajt -128 do 127

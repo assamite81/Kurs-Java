@@ -1,3 +1,5 @@
+// Typy obiektowe (referencyjne) w Java to klasy reprezentujące obiekty przechowujące dane. W przeciwieństwie do typów prostych (prymitywnych, np. int, double), typy obiektowe są instancjami klas i mogą zawierać dodatkowe metody oraz właściwości.
+
 public class TypyObiektowe {
 
     public static void main(String[] args) {

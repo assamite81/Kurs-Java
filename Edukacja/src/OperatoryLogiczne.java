@@ -1,3 +1,5 @@
+// Operatory logiczne w Java służą do wykonywania operacji na wartościach logicznych (true lub false). Są używane głównie w instrukcjach warunkowych (if, while, for) i operacjach na warunkach logicznych.
+
 public class OperatoryLogiczne {
 
     public static void main(String[] args) {

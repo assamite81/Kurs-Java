@@ -1,4 +1,4 @@
-// umozliwiaja wykonanie podstawowych operacji matematycznych
+// Operatory matematyczne (arytmetyczne) w Java służą do wykonywania podstawowych operacji matematycznych, takich jak dodawanie, odejmowanie, mnożenie czy dzielenie.
 
 public class OperatoryMatematyczne {
     

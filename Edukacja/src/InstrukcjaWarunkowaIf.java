@@ -1,3 +1,5 @@
+// Instrukcja if w języku Java służy do wykonywania bloku kodu tylko wtedy, gdy określony warunek logiczny jest spełniony (tj. ma wartość true).
+
 public class InstrukcjaWarunkowaIf {
 
     public static void main(String[] args) {

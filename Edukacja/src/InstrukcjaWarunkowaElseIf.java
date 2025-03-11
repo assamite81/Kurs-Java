@@ -1,3 +1,5 @@
+// Instrukcja warunkowa if-else w języku Java służy do wykonywania różnych bloków kodu w zależności od spełnienia określonego warunku logicznego.
+
 public class InstrukcjaWarunkowaElseIf {
 
     public static void main(String[] args) {

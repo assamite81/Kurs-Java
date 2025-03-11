@@ -1,7 +1,5 @@
-// zarezerwowane miejsce w pamieci z okreslonym typem danych
-public class Zmienne {
-
-    
+// Zmienne w Java to kontenery na dane, które przechowują wartości w pamięci operacyjnej. Każda zmienna ma określony typ, który definiuje rodzaj przechowywanej wartości.
+public class Zmienne {  
 
     public static void main(String[] args) {
         int firstNumber;
