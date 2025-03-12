@@ -1,6 +1,6 @@
 public class PetleZadanie1 {
     // Wypisz liczby z zakresu 1-100 podzielne przez 3
-    // Odwroc elementy tablicy [1, 3, 5] -> [5, 3, 1]
+    
 
         // x%3==0
 
